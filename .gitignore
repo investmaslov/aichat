@@ -5,5 +5,5 @@ __pycache__/
 venv/
 .pytest_cache/
 
-# spec-документы держим локально, в репо не заливаем
+
 docs/
